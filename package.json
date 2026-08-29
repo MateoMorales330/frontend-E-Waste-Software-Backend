@@ -1,0 +1,11 @@
+{
+	"type": "module",
+	"scripts": {
+		"start": "node app.js",
+		"dev": "node --watch app.js"
+	},
+	"dependencies": {
+		"express": "^5.2.1",
+		"cors": "^2.8.6"
+	}
+}
