@@ -1,0 +1,35 @@
+Licencia de Uso
+Licencia de co-propiedad y uso educativo abierto
+KeepInventory MVP
+La licencia KeepInventory MVP es un marco normativo personalizado creado por el equipo Void que consiste 
+en un esquema de co-propiedad y uso educativo abierto; otorga titularidad compartida en partes iguales a 
+sus creadores, garantiza la libertad de desarrollo individual y exige el reconocimiento obligatorio de la
+autoría original.
+1.TITULARIDAD COMPARTIDA
+Todos los integrantes del equipo son coautores y copropietarios del presente producto en partes iguales.
+
+2. DERECHO DE USO Y DESARROLLO
+Cada integrante del equipo tiene plena libertad para usar, modificar, distribuir y continuar con el 
+desarrollo de este proyecto, tanto de forma individual como colectiva, sin necesidad de autorización 
+del resto de los coautores. No obstante, se establece que: Los repositorios oficiales asociados al 
+trabajo de egreso (frontend y backend) deberán permanecer inalterables tras la defensa del proyecto,
+ no pudiendo modificarse ni recibir nuevos commits. Cualquier continuación o versión derivada deberá 
+ realizarse en repositorios nuevos, fuera del ámbito académico original.
+3. ACCESO EDUCATIVO Y LIBRE VISUALIZACIÓN
+El proyecto E-Waste Software , junto con su documentación técnica, podrá mantenerse público con fines
+ educativos, demostrativos o de referencia, permitiendo a estudiantes, docentes o cualquier persona 
+ interesada: Visualizar el código fuente y la documentación. Descargar copias locales (.zip o similares)
+para su estudio, aprendizaje o demostración. No se autoriza, sin consentimiento previo del equipo o sus
+ representantes, el uso comercial, redistribución con fines de lucro o la presentación del proyecto como
+ propio.
+4. NO EXCLUSIVIDAD Y RECONOCIMIENTO
+Ningún integrante podrá reclamar exclusividad ni impedir el uso o desarrollo del proyecto por parte de 
+los demás coautores. En toda publicación, presentación o derivación futura del proyecto, deberá 
+reconocerse al equipo E-Waste Software como autores originales de E-Waste Software
+.5. APLICACIÓN SUPLETORIA
+En lo no previsto expresamente en la presente licencia, se aplicarán las disposiciones de la legislación
+ vigente en materia de derechos de autor y propiedad intelectual.
+6. NOMBRE Y DERECHOS DE MARCA
+El nombre “E-Waste Software” se reserva como denominación formal del proyecto académico y podrá ser 
+objeto de registro o adquisición de derechos de marca en el futuro por parte de alguno de los coautores,
+ previa comunicación al resto del equipo.
