@@ -1,5 +1,5 @@
 # Backend de E-Waste Software
-
+Somos E-Waste Software, un equipo de estudiantes de la UTU cursando nuestro proyecto final de Bachillerato en Informática. Desarrollamos una plataforma web orientada a optimizar la gestión comercial y la visibilidad digital de Zona Móbil, un local de accesorios para celulares, fusionando el comercio electrónico con prácticas sustentables. El código y el desarrollo de este proyecto se rigen bajo los términos de una licencia personalizada, detallada en el archivo Licencia.txt del repositorio.
 API del sistema E-Waste Software, desarrollada con Laravel. La aplicación Laravel está dentro de `proyectito/`; ejecutá los comandos de Laravel desde esa carpeta.
 
 ## Requisitos
